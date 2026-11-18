@@ -33,7 +33,7 @@ The dataset includes job posting records from all of 2023.
 
 Data source: Data comes from publicly available datasets on datanerd.tech. This website pulls job postings from Google Jobs search results via SerpiApi, providing up-to-date records of data-related job postings.
 
-Data Availability: The original CSV datasets are not included in this repository due to file size limitations. The data can be obtained from the original source and imported into PostgreSQL to reproduce the analysis.
+Data Availability: The original CSV datasets are not included in this repository due to file size limitations. The data, along with the database and table creation queries, can be found in the Google Drive folder: https://drive.google.com/drive/folders/1i_pIIXfqmrl9EhULMtp38S6wtotb3aOC?usp=sharing
 
 ## Analytical Questions
 
