@@ -162,8 +162,6 @@ This project demonstrates how SQL can be used to explore employment market data 
 - `job_postings_fact.csv` — data to build the job_postings_fact table
 - `skills_dim.csv` — data to build the skills_dim table
 - `skills_job_dim.csv` — data to build the skills_job_dim table
-- `jobs_data_2023_queries.sql` — 10 sql queries exploring the 2023 jobs data
-- `query_results.xlsx` — an Excel doc containing the results of all 10 queries
 
 **[SQL Job Market Analysis Queries](1_jobs_data_2023_queries.sql)**
 
