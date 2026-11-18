@@ -150,14 +150,14 @@ This project demonstrates how SQL can be used to explore employment market data 
 
 ## Files
 
-**`sql_load/`**
+**`sql_load`**
 https://drive.google.com/drive/folders/14gxHJyMQ3PDvDjBq8wByBcfY74auZPFn?usp=sharing
 
 - `1_create_database.sql` — sql code to create the jobs_data database
 - `2_create_tables.sql` — sql code to create the company_dim, job_postings_fact, skills_dim, and skills_job_dim tables
 - `3_modify_tables` — sql code to load csv data into tables
 
-**`csv_files/`**
+**`csv_files`**
 https://drive.google.com/drive/folders/1FdNunttRCa7NbOj6MiVJnDWndFWFlaLh?usp=sharing
 
 - `company_dim.csv` — data to build the company_dim table
@@ -167,5 +167,5 @@ https://drive.google.com/drive/folders/1FdNunttRCa7NbOj6MiVJnDWndFWFlaLh?usp=sha
 - `jobs_data_2023_queries.sql` — 10 sql queries exploring the 2023 jobs data
 - `query_results.xlsx` — an Excel doc containing the results of all 10 queries
 
-1. [SQL Job Market Analysis Queries](1_jobs_data_2023_queries.sql)
+**[SQL Job Market Analysis Queries](1_jobs_data_2023_queries.sql)**
 2. [SQL Query Results](2_query_results.xlsx)
