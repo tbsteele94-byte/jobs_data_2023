@@ -151,14 +151,12 @@ This project demonstrates how SQL can be used to explore employment market data 
 ## Files
 
 **[sql_load](https://drive.google.com/drive/folders/14gxHJyMQ3PDvDjBq8wByBcfY74auZPFn?usp=sharing)**
-https://drive.google.com/drive/folders/14gxHJyMQ3PDvDjBq8wByBcfY74auZPFn?usp=sharing
 
 - `1_create_database.sql` — sql code to create the jobs_data database
 - `2_create_tables.sql` — sql code to create the company_dim, job_postings_fact, skills_dim, and skills_job_dim tables
 - `3_modify_tables` — sql code to load csv data into tables
 
 **[csv_files](https://drive.google.com/drive/folders/1FdNunttRCa7NbOj6MiVJnDWndFWFlaLh?usp=sharing)**
-https://drive.google.com/drive/folders/1FdNunttRCa7NbOj6MiVJnDWndFWFlaLh?usp=sharing
 
 - `company_dim.csv` — data to build the company_dim table
 - `job_postings_fact.csv` — data to build the job_postings_fact table
