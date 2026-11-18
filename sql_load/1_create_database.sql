@@ -1,3 +1,0 @@
-CREATE DATABASE jobs_data;
-
--- DROP DATABASE IF EXISTS jobs_data;
